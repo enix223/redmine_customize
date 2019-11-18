@@ -29,5 +29,3 @@ Redmine::Plugin.register :redmine_customize do
   url 'https://github.com/enix223/redmine_customize'
   author_url 'https://github.com/enix223'
 end
-
-# require "redmine_customize"
